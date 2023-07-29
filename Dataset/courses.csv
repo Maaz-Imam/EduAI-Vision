@@ -1,1 +1,268 @@
-.
+,course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled
+134,(ISC)² Systems Security Certified Practitioner (SSCP),(ISC)²,SPECIALIZATION,4.7,Beginner,5.3k
+874,A Crash Course in Data Science,Johns Hopkins University,COURSE,4.5,Mixed,130k
+54,AI For Everyone,deeplearning.ai,COURSE,4.8,Beginner,350k
+488,AI For Medical Treatment,deeplearning.ai,COURSE,4.8,Intermediate,2.4k
+58,AI Foundations for Everyone,IBM,SPECIALIZATION,4.7,Beginner,61k
+129,AI for Medical Diagnosis,deeplearning.ai,COURSE,4.7,Intermediate,12k
+283,AI for Medical Prognosis,deeplearning.ai,COURSE,4.6,Intermediate,4k
+35,AI for Medicine,deeplearning.ai,SPECIALIZATION,4.7,Intermediate,13k
+43,AWS Fundamentals,Amazon Web Services,SPECIALIZATION,4.6,Beginner,130k
+631,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,COURSE,4.3,Beginner,11k
+861,AWS Fundamentals: Building Serverless Applications,Amazon Web Services,COURSE,4.7,Beginner,27k
+281,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,COURSE,4.7,Beginner,110k
+828,AWS Fundamentals: Migrating to the Cloud,Amazon Web Services,COURSE,4.5,Intermediate,13k
+142,Accelerated Computer Science Fundamentals,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Intermediate,22k
+157,Advanced Data Science with IBM,IBM,SPECIALIZATION,4.4,Advanced,320k
+103,Advanced Machine Learning,National Research University Higher School of Economics,SPECIALIZATION,4.5,Advanced,190k
+324,Advanced Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,SPECIALIZATION,4.5,Advanced,35k
+561,Algorithmic Toolbox,University of California San Diego,COURSE,4.7,Intermediate,220k
+78,Algorithms,Stanford University,SPECIALIZATION,4.8,Intermediate,150k
+151,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",SPECIALIZATION,4.6,Beginner,270k
+390,Android App Development,Vanderbilt University,SPECIALIZATION,4.5,Beginner,120k
+8,Applied Data Science,IBM,SPECIALIZATION,4.6,Beginner,220k
+637,Applied Data Science Capstone,IBM,COURSE,4.7,Intermediate,42k
+26,Applied Data Science with Python,University of Michigan,SPECIALIZATION,4.5,Intermediate,480k
+630,Applied Machine Learning in Python,University of Michigan,COURSE,4.6,Intermediate,150k
+491,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,COURSE,4.6,Intermediate,97k
+437,Architecting with Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.5,Intermediate,4.2k
+10,Architecting with Google Compute Engine,Google Cloud,SPECIALIZATION,4.7,Intermediate,310k
+573,Architecting with Google Kubernetes Engine 日本語版,Google Cloud,SPECIALIZATION,4.5,Beginner,3.9k
+493,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",COURSE,4.8,Intermediate,91k
+106,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,COURSE,4.9,Mixed,210k
+565,Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,COURSE,4.4,Beginner,88k
+251,Blockchain,University at Buffalo,SPECIALIZATION,4.6,Intermediate,68k
+143,Blockchain Revolution,INSEAD,SPECIALIZATION,4.7,Beginner,21k
+462,Blockchain Revolution in Financial Services,INSEAD,SPECIALIZATION,4.6,Beginner,1.6k
+719,Blockchain: Foundations and Use Cases,ConsenSys Academy,COURSE,4.7,Beginner,31k
+395,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,COURSE,4.9,Mixed,95k
+653,Building Batch Data Pipelines on GCP,Google Cloud,COURSE,4.5,Intermediate,7.3k
+670,Building Conversational Experiences with Dialogflow,Google Cloud,COURSE,4.5,Beginner,22k
+884,Building Resilient Streaming Analytics Systems on GCP,Google Cloud,COURSE,4.6,Intermediate,5.8k
+610,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,COURSE,4.3,Intermediate,24k
+478,Business Transformation with Google Cloud,Google Cloud,COURSE,4.7,Beginner,10k
+662,C for Everyone: Programming Fundamentals,"University of California, Santa Cruz",COURSE,4.5,Beginner,31k
+222,C# Programming for Unity Game Development,University of Colorado System,SPECIALIZATION,4.7,Beginner,36k
+536,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,COURSE,4.6,Mixed,82k
+349,Cloud Computing,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,Intermediate,110k
+777,Cloud Computing Basics (Cloud 101),LearnQuest,COURSE,4.5,Beginner,37k
+9,Cloud Engineering with Google Cloud,Google Cloud,PROFESSIONAL CERTIFICATE,4.7,Intermediate,310k
+655,Code Yourself! An Introduction to Programming,The University of Edinburgh,COURSE,4.7,Beginner,120k
+391,Computational Social Science,"University of California, Davis",SPECIALIZATION,4.6,Beginner,5.8k
+221,Computational Thinking for Problem Solving,University of Pennsylvania,COURSE,4.8,Beginner,33k
+621,Computer Security and Systems Management,University of Colorado System,SPECIALIZATION,4.6,Beginner,27k
+448,Continuous Delivery & DevOps,University of Virginia,COURSE,4.6,Beginner,26k
+207,Convolutional Neural Networks,deeplearning.ai,COURSE,4.9,Intermediate,240k
+358,Convolutional Neural Networks in TensorFlow,deeplearning.ai,COURSE,4.7,Intermediate,46k
+179,Crash Course on Python,Google,COURSE,4.8,Beginner,81k
+372,Cybersecurity,"University of Maryland, College Park",SPECIALIZATION,4.5,Intermediate,99k
+821,Cybersecurity and Its Ten Domains,University System of Georgia,COURSE,4.2,Beginner,140k
+497,Cybersecurity for Business,University of Colorado System,SPECIALIZATION,4.6,Beginner,23k
+812,Data Analysis and Interpretation,Wesleyan University,SPECIALIZATION,4.4,Beginner,100k
+39,Data Analysis and Presentation Skills: the PwC Approach,PwC,SPECIALIZATION,4.6,Beginner,220k
+277,Data Analysis with Python,IBM,COURSE,4.7,Beginner,110k
+605,Data Analytics for Lean Six Sigma,University of Amsterdam,COURSE,4.8,Beginner,24k
+783,Data Collection and Processing with Python,University of Michigan,COURSE,4.7,Intermediate,19k
+679,Data Engineering on Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.4,Intermediate,3k
+22,Data Engineering with Google Cloud,Google Cloud,PROFESSIONAL CERTIFICATE,4.6,Intermediate,120k
+24,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,SPECIALIZATION,4.6,Intermediate,120k
+383,Data Management for Clinical Research,Vanderbilt University,COURSE,4.7,Beginner,42k
+434,Data Mining,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,Intermediate,140k
+13,Data Science,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,830k
+399,Data Science Math Skills,Duke University,COURSE,4.5,Beginner,140k
+198,Data Science Methodology,IBM,COURSE,4.6,Beginner,89k
+15,Data Science: Foundations using R,Johns Hopkins University,SPECIALIZATION,4.6,Beginner,740k
+148,Data Science: Statistics and Machine Learning,Johns Hopkins University,SPECIALIZATION,4.4,Intermediate,210k
+686,Data Visualization and Communication with Tableau,Duke University,COURSE,4.7,Mixed,130k
+804,Data Visualization with Advanced Excel,PwC,COURSE,4.8,Beginner,60k
+420,Data Visualization with Python,IBM,COURSE,4.6,Intermediate,66k
+70,Data Visualization with Tableau,"University of California, Davis",SPECIALIZATION,4.5,Beginner,96k
+288,Data Warehousing for Business Intelligence,University of Colorado System,SPECIALIZATION,4.5,Advanced,140k
+871,Data and Health Indicators in Public Health Practice,Johns Hopkins University,COURSE,4.7,Beginner,18k
+376,Data-driven Decision Making,PwC,COURSE,4.6,Beginner,120k
+263,Databases and SQL for Data Science,IBM,COURSE,4.7,Beginner,110k
+5,Deep Learning,deeplearning.ai,SPECIALIZATION,4.8,Intermediate,690k
+338,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,SPECIALIZATION,4.6,Intermediate,16k
+18,Developing Applications with Google Cloud Platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k
+644,Developing Applications with Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.8,Intermediate,4k
+720,Developing Industrial Internet of Things,University of Colorado Boulder,SPECIALIZATION,4.6,Intermediate,8k
+733,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,SPECIALIZATION,4.6,Beginner,17k
+446,Essential Google Cloud Infrastructure: Core Services,Google Cloud,COURSE,4.7,Intermediate,68k
+347,Essential Google Cloud Infrastructure: Foundation,Google Cloud,COURSE,4.7,Intermediate,83k
+591,Excel Skills for Business: Advanced,Macquarie University,COURSE,4.7,Intermediate,39k
+92,Excel Skills for Business: Essentials,Macquarie University,COURSE,4.9,Beginner,200k
+218,Excel Skills for Business: Intermediate I,Macquarie University,COURSE,4.9,Intermediate,76k
+419,Excel Skills for Business: Intermediate II,Macquarie University,COURSE,4.8,Intermediate,39k
+137,Executive Data Science,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,170k
+442,FinTech Law and Policy,Duke University,COURSE,4.8,Beginner,9.7k
+531,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology,SPECIALIZATION,4.6,Beginner,13k
+453,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,COURSE,4.7,Beginner,12k
+356,Financial Technology (Fintech) Innovations,University of Michigan,SPECIALIZATION,4.7,Beginner,6.5k
+569,Foundations of Marketing Analytics,Emory University,SPECIALIZATION,4.2,Intermediate,27k
+203,From Data to Insights with Google Cloud Platform,Google Cloud,SPECIALIZATION,4.6,Beginner,26k
+863,Front-End Web Development with React,The Hong Kong University of Science and Technology,COURSE,4.7,Intermediate,45k
+501,Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,COURSE,4.8,Intermediate,89k
+108,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,SPECIALIZATION,4.7,Intermediate,150k
+89,Full-Stack Web Development with React,The Hong Kong University of Science and Technology,SPECIALIZATION,4.7,Intermediate,140k
+790,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,COURSE,4.8,Intermediate,170k
+150,Functional Programming in Scala,École Polytechnique Fédérale de Lausanne,SPECIALIZATION,4.7,Intermediate,220k
+164,Fundamentals of Computing,Rice University,SPECIALIZATION,4.8,Beginner,200k
+520,Fundamentals of Visualization with Tableau,"University of California, Davis",COURSE,4.5,Beginner,81k
+206,Game Design and Development,Michigan State University,SPECIALIZATION,4.7,Intermediate,100k
+141,Game Theory,Stanford University,COURSE,4.6,Beginner,260k
+76,Genomic Data Science,Johns Hopkins University,SPECIALIZATION,4.4,Intermediate,80k
+568,Getting Started with AWS Machine Learning,Amazon Web Services,COURSE,4.5,Intermediate,73k
+734,Getting Started with Go,"University of California, Irvine",COURSE,4.6,Intermediate,59k
+422,Getting Started with Google Kubernetes Engine,Google Cloud,COURSE,4.5,Intermediate,75k
+411,Getting Started with Google Sheets,Google Cloud,COURSE,4.6,Beginner,18k
+538,Getting Started with SAS Programming,SAS,COURSE,4.9,Beginner,22k
+227,Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,COURSE,4.6,Intermediate,120k
+849,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,COURSE,4.7,Intermediate,36k
+25,Google IT Automation with Python,Google,PROFESSIONAL CERTIFICATE,4.7,Beginner,93k
+4,Google IT Support,Google,PROFESSIONAL CERTIFICATE,4.8,Beginner,350k
+329,"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,COURSE,4.8,Mixed,240k
+700,Homeland Security and Cybersecurity,University of Colorado System,SPECIALIZATION,4.7,Beginner,5.5k
+767,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,COURSE,3.3,Mixed,140k
+34,IBM AI Engineering,IBM,PROFESSIONAL CERTIFICATE,4.6,Intermediate,140k
+571,IBM AI Enterprise Workflow,IBM,SPECIALIZATION,4.4,Advanced,3.5k
+12,IBM Applied AI,IBM,PROFESSIONAL CERTIFICATE,4.6,Beginner,220k
+0,IBM Data Science,IBM,PROFESSIONAL CERTIFICATE,4.6,Beginner,480k
+98,IT Fundamentals for Cybersecurity,IBM,SPECIALIZATION,4.5,Beginner,35k
+476,IT Security: Defense against the digital dark arts,Google,COURSE,4.8,Beginner,62k
+123,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,COURSE,4.9,Beginner,270k
+572,Industrial IoT on Google Cloud Platform,Google Cloud,COURSE,4.5,Beginner,34k
+805,Influencer Marketing Strategy,Rutgers the State University of New Jersey,COURSE,4.4,Intermediate,12k
+549,Information Security: Context and Introduction,"Royal Holloway, University of London",COURSE,4.6,Beginner,32k
+537,Information Visualization,New York University,SPECIALIZATION,4.6,Beginner,10k
+701,International Cyber Conflicts,The State University of New York,COURSE,4.4,Mixed,25k
+447,International Security Management,Erasmus University Rotterdam,COURSE,4.5,Beginner,2.2k
+427,Introduction to Artificial Intelligence (AI),IBM,COURSE,4.7,Beginner,44k
+862,Introduction to Big Data,University of California San Diego,COURSE,4.6,Mixed,160k
+608,Introduction to Blockchain Technologies,INSEAD,COURSE,4.7,Beginner,16k
+713,Introduction to Business Analytics: Communicating with Data,University of Illinois at Urbana-Champaign,COURSE,4.7,Intermediate,14k
+664,Introduction to CSS3,University of Michigan,COURSE,4.8,Mixed,84k
+594,Introduction to Cloud Computing,IBM,COURSE,4.6,Beginner,2.6k
+780,Introduction to Computer Programming,"Goldsmiths, University of London",COURSE,4.3,Beginner,20k
+254,Introduction to Computer Science and Programming,"Goldsmiths, University of London",SPECIALIZATION,4.3,Beginner,32k
+723,Introduction to Cyber Attacks,New York University,COURSE,4.7,Beginner,27k
+183,Introduction to Cyber Security,New York University,SPECIALIZATION,4.7,Beginner,32k
+469,Introduction to Cybersecurity Tools & Cyber Attacks,IBM,COURSE,4.5,Beginner,30k
+548,Introduction to Data Analysis Using Excel,Rice University,COURSE,4.7,Mixed,99k
+1,Introduction to Data Science,IBM,SPECIALIZATION,4.6,Beginner,310k
+187,Introduction to Data Science in Python,University of Michigan,COURSE,4.5,Intermediate,390k
+649,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,COURSE,4.5,Intermediate,41k
+850,Introduction to Game Development,Michigan State University,COURSE,4.8,Mixed,79k
+307,Introduction to HTML5,University of Michigan,COURSE,4.7,Mixed,220k
+617,Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,COURSE,4.8,Mixed,11k
+190,Introduction to Programming in C,Duke University,SPECIALIZATION,4.7,Beginner,82k
+293,Introduction to Scripting in Python,Rice University,SPECIALIZATION,4.7,Beginner,49k
+758,Introduction to Systems Engineering,UNSW Sydney (The University of New South Wales),COURSE,4.7,Mixed,33k
+230,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",deeplearning.ai,COURSE,4.7,Intermediate,150k
+659,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,COURSE,4,Intermediate,13k
+428,Introduction to User Experience Design,Georgia Institute of Technology,COURSE,4.5,Beginner,87k
+625,Introduction to Web Development,"University of California, Davis",COURSE,4.7,Beginner,76k
+147,Investment Management with Python and Machine Learning,EDHEC Business School,SPECIALIZATION,4.6,Beginner,14k
+45,Java Programming and Software Engineering Fundamentals,Duke University,SPECIALIZATION,4.6,Beginner,380k
+518,Java Programming: Solving Problems with Software,Duke University,COURSE,4.6,Beginner,160k
+546,Kotlin for Java Developers,JetBrains,COURSE,4.7,Intermediate,37k
+74,Learn SQL Basics for Data Science,"University of California, Davis",SPECIALIZATION,4.6,Beginner,160k
+260,Learn to Program: The Fundamentals,University of Toronto,COURSE,4.8,Beginner,180k
+181,Machine Learning,University of Washington,SPECIALIZATION,4.6,Intermediate,290k
+6,Machine Learning,Stanford University,COURSE,4.9,Mixed,3.2m
+831,Machine Learning Foundations: A Case Study Approach,University of Washington,COURSE,4.6,Mixed,240k
+352,Machine Learning and Reinforcement Learning in Finance,New York University,SPECIALIZATION,3.7,Intermediate,29k
+585,Machine Learning for All,University of London,COURSE,4.6,Beginner,19k
+264,Machine Learning for Business Professionals,Google Cloud,COURSE,4.6,Intermediate,58k
+178,Machine Learning for Trading,Google Cloud,SPECIALIZATION,3.9,Intermediate,15k
+321,Machine Learning with Python,IBM,COURSE,4.7,Intermediate,120k
+125,Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,SPECIALIZATION,4.5,Intermediate,72k
+467,Managerial Accounting Fundamentals,University of Virginia,COURSE,4.9,Beginner,11k
+550,Mastering Data Analysis in Excel,Duke University,COURSE,4.2,Mixed,280k
+563,Mastering Software Development in R,Johns Hopkins University,SPECIALIZATION,4.3,Beginner,52k
+840,Materials Science: 10 Things Every Engineer Should Know,"University of California, Davis",COURSE,4.7,Mixed,48k
+480,Mathematics for Data Science,National Research University Higher School of Economics,SPECIALIZATION,4.5,Beginner,12k
+55,Mathematics for Machine Learning,Imperial College London,SPECIALIZATION,4.6,Beginner,150k
+223,Mathematics for Machine Learning: Linear Algebra,Imperial College London,COURSE,4.7,Beginner,140k
+528,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,COURSE,4.7,Beginner,51k
+873,Mathematics for Machine Learning: PCA,Imperial College London,COURSE,4,Intermediate,33k
+296,Modern Big Data Analysis with SQL,Cloudera,SPECIALIZATION,4.8,Beginner,14k
+333,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,SPECIALIZATION,4.7,Intermediate,21k
+523,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,COURSE,4.7,Intermediate,9.1k
+481,More Introduction to Financial Accounting,University of Pennsylvania,COURSE,4.9,Mixed,40k
+685,Nanotechnology: A Maker’s Course,Duke University,COURSE,4.8,Mixed,21k
+431,Natural Language Processing in TensorFlow,deeplearning.ai,COURSE,4.6,Intermediate,40k
+842,Networking and Security Architecture with VMware NSX,VMware,COURSE,4.8,Intermediate,17k
+20,Networking in Google Cloud,Google Cloud,SPECIALIZATION,4.7,Intermediate,290k
+62,Neural Networks and Deep Learning,deeplearning.ai,COURSE,4.9,Intermediate,630k
+255,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,SPECIALIZATION,4.7,Intermediate,250k
+86,Object Oriented Programming in Java,Duke University,SPECIALIZATION,4.6,Beginner,330k
+510,Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,COURSE,4.7,Intermediate,21k
+887,Object-Oriented Design,University of Alberta,COURSE,4.7,Intermediate,33k
+416,"Open Source Software Development, Linux and Git",The Linux Foundation,SPECIALIZATION,4.4,Beginner,13k
+316,Operating Systems and You: Becoming a Power User,Google,COURSE,4.6,Beginner,76k
+526,Palo Alto Networks Cybersecurity,Palo Alto Networks,SPECIALIZATION,4.6,Beginner,9.1k
+320,Practical Data Science with MATLAB,MathWorks,SPECIALIZATION,4.7,Beginner,10k
+808,Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,COURSE,4.7,Beginner,22k
+626,Process Mining: Data science in Action,Eindhoven University of Technology,COURSE,4.8,Intermediate,39k
+364,"Programming Foundations with JavaScript, HTML and CSS",Duke University,COURSE,4.6,Beginner,250k
+732,Programming Fundamentals,Duke University,COURSE,4.7,Beginner,19k
+47,Programming for Everybody (Getting Started with Python),University of Michigan,COURSE,4.8,Mixed,1.3m
+208,Programming with Google Go,"University of California, Irvine",SPECIALIZATION,4.6,Intermediate,18k
+31,Project Management & Other Tools for Career Development,"University of California, Irvine",SPECIALIZATION,4.6,Beginner,440k
+30,Project Management Principles and Practices,"University of California, Irvine",SPECIALIZATION,4.7,Beginner,230k
+279,Python Basics,University of Michigan,COURSE,4.8,Beginner,110k
+869,Python Classes and Inheritance,University of Michigan,COURSE,4.7,Intermediate,21k
+111,Python Data Structures,University of Michigan,COURSE,4.9,Mixed,420k
+555,"Python Functions, Files, and Dictionaries",University of Michigan,COURSE,4.8,Beginner,26k
+374,Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,COURSE,4.4,Intermediate,41k
+152,Python for Data Science and AI,IBM,COURSE,4.6,Beginner,170k
+3,Python for Everybody,University of Michigan,SPECIALIZATION,4.8,Beginner,1.5m
+317,R Programming,Johns Hopkins University,COURSE,4.6,Intermediate,480k
+553,Recommender Systems,University of Minnesota,SPECIALIZATION,4.3,Intermediate,29k
+868,Requirements Engineering: Secure Software  Specifications,University of Colorado System,SPECIALIZATION,4.6,Beginner,7.2k
+289,Responsive Website Development and Design,"Goldsmiths, University of London",SPECIALIZATION,4.5,Beginner,170k
+315,Robotics,University of Pennsylvania,SPECIALIZATION,4.4,Beginner,120k
+160,SAS Programmer,SAS,PROFESSIONAL CERTIFICATE,4.8,Beginner,370k
+393,SAS Visual Business Analytics,SAS,PROFESSIONAL CERTIFICATE,4.6,Beginner,2.6k
+332,SQL for Data Science,"University of California, Davis",COURSE,4.6,Beginner,160k
+629,Search Engine Optimization Fundamentals,"University of California, Davis",COURSE,4.7,Mixed,47k
+836,Secure Coding Practices,"University of California, Davis",SPECIALIZATION,4.4,Intermediate,6.4k
+712,Security & Safety Challenges in a Globalized World,Universiteit Leiden,COURSE,4.7,Beginner,14k
+19,Security in Google Cloud Platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k
+817,Social Entrepreneurship,Copenhagen Business School,SPECIALIZATION,4.6,Beginner,13k
+186,Software Design and Architecture,University of Alberta,SPECIALIZATION,4.6,Beginner,60k
+402,Software Development Lifecycle,University of Minnesota,SPECIALIZATION,4.6,Intermediate,34k
+859,Software Processes and Agile Practices,University of Alberta,COURSE,4.7,Mixed,60k
+64,Software Product Management,University of Alberta,SPECIALIZATION,4.6,Beginner,110k
+170,Statistical Analysis with R for Public Health,Imperial College London,SPECIALIZATION,4.7,Beginner,16k
+127,Statistics with Python,University of Michigan,SPECIALIZATION,4.6,Beginner,34k
+84,Statistics with R,Duke University,SPECIALIZATION,4.7,Beginner,220k
+189,Structuring Machine Learning Projects,deeplearning.ai,COURSE,4.8,Beginner,220k
+387,Swift 5 iOS Application Developer,LearnQuest,SPECIALIZATION,4.5,Beginner,3.9k
+403,System Administration and IT Infrastructure Services,Google,COURSE,4.7,Beginner,62k
+27,TensorFlow in Practice,deeplearning.ai,SPECIALIZATION,4.7,Intermediate,170k
+217,TensorFlow: Data and Deployment,deeplearning.ai,SPECIALIZATION,4.5,Intermediate,12k
+135,The Bits and Bytes of Computer Networking,Google,COURSE,4.7,Beginner,130k
+243,The Data Scientist’s Toolbox,Johns Hopkins University,COURSE,4.6,Mixed,420k
+138,The Strategy of Content Marketing,"University of California, Davis",COURSE,4.5,Intermediate,100k
+146,Tools for Data Science,IBM,COURSE,4.6,Beginner,120k
+153,UCI Project Management,"University of California, Irvine",PROFESSIONAL CERTIFICATE,4.6,Beginner,44k
+46,UI / UX Design,California Institute of the Arts,SPECIALIZATION,4.7,Beginner,68k
+595,UX Design Fundamentals,California Institute of the Arts,COURSE,4.8,Beginner,25k
+465,Understanding and Visualizing Data with Python,University of Michigan,COURSE,4.7,Beginner,30k
+249,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,COURSE,4.9,Beginner,130k
+865,Unity Certified Programmer Exam Preparation,Unity,SPECIALIZATION,4.5,Intermediate,6.1k
+618,Unity XR: How to Build AR and VR Apps,Unity,SPECIALIZATION,4.2,Beginner,12k
+117,User Experience Research and Design,University of Michigan,SPECIALIZATION,4.8,Beginner,23k
+614,User Interface Design,University of Minnesota,SPECIALIZATION,4.6,Intermediate,43k
+350,Using Databases with Python,University of Michigan,COURSE,4.8,Mixed,220k
+199,Using Python to Access Web Data,University of Michigan,COURSE,4.8,Mixed,310k
+603,Using Python to Interact with the Operating System,Google,COURSE,4.7,Beginner,19k
+589,Version Control with Git,Atlassian,COURSE,4.8,Mixed,40k
+71,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,COURSE,4.7,Mixed,150k
+407,Virtual Reality,"Goldsmiths, University of London",SPECIALIZATION,4.7,Beginner,37k
+182,Web Applications for Everybody,University of Michigan,SPECIALIZATION,4.8,Intermediate,120k
+42,Web Design for Everybody: Basics of Web Development & Coding,University of Michigan,SPECIALIZATION,4.7,Beginner,280k
+88,What is Data Science?,IBM,COURSE,4.7,Beginner,260k
+359,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,University of Illinois at Urbana-Champaign,COURSE,4.5,Mixed,17k
+779,iOS App Development with Swift,University of Toronto,SPECIALIZATION,3.9,Intermediate,76k
