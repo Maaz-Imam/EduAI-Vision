@@ -25,8 +25,15 @@ def get_course_recommendation(user_interest, cosin_matrix, df):
     course_index = [i[0] for i in score]
     return df['course_title'].iloc[course_index[:3]]
 
-user_interest = input("Enter the output from quiz")
 
-recommendation = get_course_recommendation(user_interest,cosine_similarity, data2)
-print("Recommended courses are:")
-print(recommendation)
+
+def get_recommendation(user_interest):
+    return get_course_recommendation(user_interest, cosine_similarity, data2)
+
+if __name__ == '__main__':
+    user_interest = input("Enter the output from quiz")
+
+    recommendation = get_course_recommendation(user_interest,cosine_similarity, data2)
+    print("Recommended courses are:")
+    print(recommendation)
+
