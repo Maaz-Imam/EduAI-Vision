@@ -1,0 +1,268 @@
+,course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled,Description
+134,(ISC)² Systems Security Certified Practitioner (SSCP),(ISC)²,SPECIALIZATION,4.7,Beginner,5.3k," Certification course for cybersecurity professionals focusing on systems security practices and principles. Programming languages: Not specified, but may include scripting languages like Python for security analysis."
+874,A Crash Course in Data Science,Johns Hopkins University,COURSE,4.5,Mixed,130k,"Introduces the fundamentals of data science, covering key concepts and techniques for data analysis and modeling. Programming languages: Python, R, or both for data manipulation, analysis, and visualization."
+54,AI For Everyone,deeplearning.ai,COURSE,4.8,Beginner,350k,Provides a non-technical overview of artificial intelligence concepts and applications for a general audience. No specific programming language is required for this course.
+488,AI For Medical Treatment,deeplearning.ai,COURSE,4.8,Intermediate,2.4k,Explores the use of AI in medical treatments and healthcare applications to improve patient outcomes. Programming languages: Python or R for AI algorithms and data analysis.
+58,AI Foundations for Everyone,IBM,SPECIALIZATION,4.7,Beginner,61k,A beginner-level course that introduces the foundational concepts of artificial intelligence and its real-world applications. No specific programming language is required for this course.
+129,AI for Medical Diagnosis,deeplearning.ai,COURSE,4.7,Intermediate,12k,Focuses on using AI algorithms to diagnose medical conditions and interpret diagnostic images. Programming languages: Python for AI model development and image processing.
+283,AI for Medical Prognosis,deeplearning.ai,COURSE,4.6,Intermediate,4k,Covers the application of AI in predicting disease outcomes and patient prognosis. Programming languages: Python or R for AI algorithms and data analysis.
+35,AI for Medicine,deeplearning.ai,SPECIALIZATION,4.7,Intermediate,13k,"Provides a comprehensive overview of AI's impact on various aspects of the medical field, from diagnosis to drug development. Programming languages: Python or R for AI applications in medicine."
+43,AWS Fundamentals,Amazon Web Services,SPECIALIZATION,4.6,Beginner,130k,"An introductory course on Amazon Web Services, covering core AWS services and cloud computing fundamentals. Programming languages: Not specified, but may include Python, Java, or other languages for interacting with AWS services."
+631,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,COURSE,4.3,Beginner,11k,Covers security best practices and risk management in the context of Amazon Web Services (AWS) cloud infrastructure.
+861,AWS Fundamentals: Building Serverless Applications,Amazon Web Services,COURSE,4.7,Beginner,27k,Teaches how to design and build serverless applications on AWS using services like AWS Lambda and API Gateway.
+281,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,COURSE,4.7,Beginner,110k,Explores cloud-native architecture principles and how to leverage AWS services for building scalable and resilient applications.
+828,AWS Fundamentals: Migrating to the Cloud,Amazon Web Services,COURSE,4.5,Intermediate,13k,Learn about AWS services and tools for migrating applications to the cloud.
+142,Accelerated Computer Science Fundamentals,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Intermediate,22k, A comprehensive course covering various computer science concepts using Python.
+157,Advanced Data Science with IBM,IBM,SPECIALIZATION,4.4,Advanced,320k,Advanced data science topics and techniques using Python with IBM tools.
+103,Advanced Machine Learning,National Research University Higher School of Economics,SPECIALIZATION,4.5,Advanced,190k,Dive into advanced machine learning algorithms and concepts with Python.
+324,Advanced Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,SPECIALIZATION,4.5,Advanced,35k,Explore advanced machine learning concepts using TensorFlow on Google Cloud Platform with Python.
+561,Algorithmic Toolbox,University of California San Diego,COURSE,4.7,Intermediate,220k,Learn foundational algorithms and data structures using Python.
+78,Algorithms,Stanford University,SPECIALIZATION,4.8,Intermediate,150k, Study advanced algorithms and data structures using Python.
+151,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",SPECIALIZATION,4.6,Beginner,270k," Learn to program Internet of Things devices using C, Python, and JavaScript."
+390,Android App Development,Vanderbilt University,SPECIALIZATION,4.5,Beginner,120k,Build Android applications using either Java or Kotlin programming languages.
+8,Applied Data Science,IBM,SPECIALIZATION,4.6,Beginner,220k,Apply data science techniques to real-world projects using Python.
+637,Applied Data Science Capstone,IBM,COURSE,4.7,Intermediate,42k,A project-based course where you'll apply data science skills to a real-world problem using Python.
+26,Applied Data Science with Python,University of Michigan,SPECIALIZATION,4.5,Intermediate,480k, A practical course on data science concepts and tools using Python.
+630,Applied Machine Learning in Python,University of Michigan,COURSE,4.6,Intermediate,150k,Apply machine learning algorithms and techniques to solve real-world problems with Python.
+491,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,COURSE,4.6,Intermediate,97k,Learn to create effective visualizations and plots using Python.
+437,Architecting with Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.5,Intermediate,4.2k,"Explore cloud architecture with Google Cloud Platform, taught in Japanese."
+10,Architecting with Google Compute Engine,Google Cloud,SPECIALIZATION,4.7,Intermediate,310k, Learn cloud architecture with Google Compute Engine.
+573,Architecting with Google Kubernetes Engine 日本語版,Google Cloud,SPECIALIZATION,4.5,Beginner,3.9k," Explore cloud architecture with Google Kubernetes Engine, taught in Japanese."
+493,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",COURSE,4.8,Intermediate,91k, Learn Bayesian statistics using the R programming language.
+106,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,COURSE,4.9,Mixed,210k,Prepare for the CBRS Certified Professional Installer exam by Google.
+565,Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,COURSE,4.4,Beginner,88k,Introduction to bioinformatics using Python programming.
+251,Blockchain,University at Buffalo,SPECIALIZATION,4.6,Intermediate,68k, Gain an understanding of blockchain technology.
+143,Blockchain Revolution,INSEAD,SPECIALIZATION,4.7,Beginner,21k,Explore the revolutionary potential of blockchain technology.
+462,Blockchain Revolution in Financial Services,INSEAD,SPECIALIZATION,4.6,Beginner,1.6k,Discover the impact of blockchain on the financial services industry.
+719,Blockchain: Foundations and Use Cases,ConsenSys Academy,COURSE,4.7,Beginner,31k,Learn the foundations and practical use cases of blockchain technology.
+395,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,COURSE,4.9,Mixed,95k,"Build a computer system from scratch, starting with basic logic gates."
+653,Building Batch Data Pipelines on GCP,Google Cloud,COURSE,4.5,Intermediate,7.3k,Learn how to build batch data pipelines on Google Cloud Platform using Python.
+670,Building Conversational Experiences with Dialogflow,Google Cloud,COURSE,4.5,Beginner,22k,Create conversational experiences using Dialogflow.
+884,Building Resilient Streaming Analytics Systems on GCP,Google Cloud,COURSE,4.6,Intermediate,5.8k,"Build streaming analytics systems on Google Cloud Platform using Python, Java, or Go."
+610,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,COURSE,4.3,Intermediate,24k,Create scalable Java microservices using Spring Boot and Spring Cloud.
+478,Business Transformation with Google Cloud,Google Cloud,COURSE,4.7,Beginner,10k,Learn how to transform businesses using Google Cloud technologies.
+662,C for Everyone: Programming Fundamentals,"University of California, Santa Cruz",COURSE,4.5,Beginner,31k,Introduction to programming fundamentals using the C programming language.
+222,C# Programming for Unity Game Development,University of Colorado System,SPECIALIZATION,4.7,Beginner,36k,Learn C# programming for game development in Unity.
+536,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,COURSE,4.6,Mixed,82k,"A project-based course on retrieving, processing, and visualizing data using Python."
+349,Cloud Computing,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,Intermediate,110k,Get an overview of cloud computing concepts and technologies.
+777,Cloud Computing Basics (Cloud 101),LearnQuest,COURSE,4.5,Beginner,37k,Introduction to cloud computing concepts.
+9,Cloud Engineering with Google Cloud,Google Cloud,PROFESSIONAL CERTIFICATE,4.7,Intermediate,310k,Learn cloud engineering with Google Cloud technologies.
+655,Code Yourself! An Introduction to Programming,The University of Edinburgh,COURSE,4.7,Beginner,120k, Introduction to programming concepts using Python.
+391,Computational Social Science,"University of California, Davis",SPECIALIZATION,4.6,Beginner,5.8k,Use computational methods and Python programming to analyze social phenomena.
+221,Computational Thinking for Problem Solving,University of Pennsylvania,COURSE,4.8,Beginner,33k,Develop computational thinking skills to solve problems efficiently.
+621,Computer Security and Systems Management,University of Colorado System,SPECIALIZATION,4.6,Beginner,27k,Learn about computer security and systems management.
+448,Continuous Delivery & DevOps,University of Virginia,COURSE,4.6,Beginner,26k,Learn about continuous delivery and DevOps practices.
+207,Convolutional Neural Networks,deeplearning.ai,COURSE,4.9,Intermediate,240k,Explore convolutional neural networks and their applications using Python.
+358,Convolutional Neural Networks in TensorFlow,deeplearning.ai,COURSE,4.7,Intermediate,46k, Build convolutional neural networks in TensorFlow using Python.
+179,Crash Course on Python,Google,COURSE,4.8,Beginner,81k,Fast-paced introduction to Python programming.
+372,Cybersecurity,"University of Maryland, College Park",SPECIALIZATION,4.5,Intermediate,99k,Learn the basics of cybersecurity.
+821,Cybersecurity and Its Ten Domains,University System of Georgia,COURSE,4.2,Beginner,140k,Explore cybersecurity and its ten domains.
+497,Cybersecurity for Business,University of Colorado System,SPECIALIZATION,4.6,Beginner,23k,Learn about cybersecurity for businesses.
+812,Data Analysis and Interpretation,Wesleyan University,SPECIALIZATION,4.4,Beginner,100k,Learn data analysis and interpretation techniques.
+39,Data Analysis and Presentation Skills: the PwC Approach,PwC,SPECIALIZATION,4.6,Beginner,220k,Develop data analysis and presentation skills.
+277,Data Analysis with Python,IBM,COURSE,4.7,Beginner,110k,Perform data analysis tasks using Python.
+605,Data Analytics for Lean Six Sigma,University of Amsterdam,COURSE,4.8,Beginner,24k,Use data analytics in Lean Six Sigma projects.
+783,Data Collection and Processing with Python,University of Michigan,COURSE,4.7,Intermediate,19k,Collect and process data using Python.
+679,Data Engineering on Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.4,Intermediate,3k,"Learn data engineering on Google Cloud Platform using Python, Java, or Go."
+22,Data Engineering with Google Cloud,Google Cloud,PROFESSIONAL CERTIFICATE,4.6,Intermediate,120k,"Explore data engineering on Google Cloud Platform using Python, Java, or Go."
+24,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,SPECIALIZATION,4.6,Intermediate,120k,"Gain skills in data engineering, big data, and machine learning on Google Cloud Platform using Python, Java, or Go."
+383,Data Management for Clinical Research,Vanderbilt University,COURSE,4.7,Beginner,42k,Learn data management techniques for clinical research.
+434,Data Mining,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,Intermediate,140k, Discover data mining concepts and techniques.
+13,Data Science,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,830k,Introduction to data science concepts and techniques.
+399,Data Science Math Skills,Duke University,COURSE,4.5,Beginner,140k, Learn the math skills necessary for data science.
+198,Data Science Methodology,IBM,COURSE,4.6,Beginner,89k,Explore data science methodologies.
+15,Data Science: Foundations using R,Johns Hopkins University,SPECIALIZATION,4.6,Beginner,740k,Build data science foundations using R programming.
+148,Data Science: Statistics and Machine Learning,Johns Hopkins University,SPECIALIZATION,4.4,Intermediate,210k, Learn statistics and machine learning concepts in data science using R.
+686,Data Visualization and Communication with Tableau,Duke University,COURSE,4.7,Mixed,130k,Create data visualizations and communicate insights using Tableau.
+804,Data Visualization with Advanced Excel,PwC,COURSE,4.8,Beginner,60k,Learn data visualization techniques with advanced Excel.
+420,Data Visualization with Python,IBM,COURSE,4.6,Intermediate,66k,Create data visualizations using Python.
+70,Data Visualization with Tableau,"University of California, Davis",SPECIALIZATION,4.5,Beginner,96k,Explore data visualization using Tableau.
+288,Data Warehousing for Business Intelligence,University of Colorado System,SPECIALIZATION,4.5,Advanced,140k,Learn data warehousing concepts for business intelligence.
+871,Data and Health Indicators in Public Health Practice,Johns Hopkins University,COURSE,4.7,Beginner,18k,Explore data and health indicators in public health practice.
+376,Data-driven Decision Making,PwC,COURSE,4.6,Beginner,120k,Use data-driven approaches in decision making.
+263,Databases and SQL for Data Science,IBM,COURSE,4.7,Beginner,110k, Learn databases and SQL for data science.
+5,Deep Learning,deeplearning.ai,SPECIALIZATION,4.8,Intermediate,690k,Dive into deep learning concepts using Python.
+338,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,SPECIALIZATION,4.6,Intermediate,16k,Learn to develop APIs using Google Cloud's Apigee API Platform.
+18,Developing Applications with Google Cloud Platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k,"Build applications with Google Cloud Platform using Python, Java, or Go."
+644,Developing Applications with Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.8,Intermediate,4k,"Explore application development with Google Cloud Platform in Japanese using Python, Java, or Go."
+720,Developing Industrial Internet of Things,University of Colorado Boulder,SPECIALIZATION,4.6,Intermediate,8k,Learn to develop industrial Internet of Things (IoT) solutions.
+733,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,SPECIALIZATION,4.6,Beginner,17k,Explore emerging technologies from smartphones to IoT to big data.
+446,Essential Google Cloud Infrastructure: Core Services,Google Cloud,COURSE,4.7,Intermediate,68k,"Learn the core services of Google Cloud Infrastructure using Python, Java, or Go."
+347,Essential Google Cloud Infrastructure: Foundation,Google Cloud,COURSE,4.7,Intermediate,83k, Learn the foundation of essential Google Cloud Infrastructure.
+591,Excel Skills for Business: Advanced,Macquarie University,COURSE,4.7,Intermediate,39k,Master advanced Excel skills for business applications.
+92,Excel Skills for Business: Essentials,Macquarie University,COURSE,4.9,Beginner,200k,Learn essential Excel skills for business applications.
+218,Excel Skills for Business: Intermediate I,Macquarie University,COURSE,4.9,Intermediate,76k,Enhance intermediate Excel skills for business applications.
+419,Excel Skills for Business: Intermediate II,Macquarie University,COURSE,4.8,Intermediate,39k,Advance further in intermediate Excel skills for business applications.
+137,Executive Data Science,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,170k, Explore data science concepts from an executive perspective.
+442,FinTech Law and Policy,Duke University,COURSE,4.8,Beginner,9.7k,Learn the legal and policy aspects of FinTech.
+531,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology,SPECIALIZATION,4.6,Beginner,13k,Explore the transformation and regulation of the finance industry in FinTech.
+453,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,COURSE,4.7,Beginner,12k," Understand the foundations, payments, and regulations in FinTech."
+356,Financial Technology (Fintech) Innovations,University of Michigan,SPECIALIZATION,4.7,Beginner,6.5k,Discover innovations in financial technology (Fintech).
+569,Foundations of Marketing Analytics,Emory University,SPECIALIZATION,4.2,Intermediate,27k,Learn marketing analytics fundamentals.
+203,From Data to Insights with Google Cloud Platform,Google Cloud,SPECIALIZATION,4.6,Beginner,26k,Transform data to insights using Google Cloud Platform with Python and SQL.
+863,Front-End Web Development with React,The Hong Kong University of Science and Technology,COURSE,4.7,Intermediate,45k,"Learn front-end web development with React using JavaScript, HTML, and CSS."
+501,Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,COURSE,4.8,Intermediate,89k,"Explore front-end web UI frameworks and tools, specifically Bootstrap 4, using JavaScript, HTML, and CSS."
+108,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,SPECIALIZATION,4.7,Intermediate,150k,Develop full-stack web and multiplatform mobile applications.
+89,Full-Stack Web Development with React,The Hong Kong University of Science and Technology,SPECIALIZATION,4.7,Intermediate,140k,"Build full-stack web applications with React using JavaScript, HTML, and CSS."
+790,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,COURSE,4.8,Intermediate,170k,Learn functional programming principles using Scala.
+150,Functional Programming in Scala,École Polytechnique Fédérale de Lausanne,SPECIALIZATION,4.7,Intermediate,220k,Explore functional programming concepts in Scala
+164,Fundamentals of Computing,Rice University,SPECIALIZATION,4.8,Beginner,200k,Learn computing fundamentals.
+520,Fundamentals of Visualization with Tableau,"University of California, Davis",COURSE,4.5,Beginner,81k,Understand the fundamentals of data visualization with Tableau.
+206,Game Design and Development,Michigan State University,SPECIALIZATION,4.7,Intermediate,100k,Learn game design and development concepts
+141,Game Theory,Stanford University,COURSE,4.6,Beginner,260k, Study game theory concepts.
+76,Genomic Data Science,Johns Hopkins University,SPECIALIZATION,4.4,Intermediate,80k,Explore genomic data science concepts.
+568,Getting Started with AWS Machine Learning,Amazon Web Services,COURSE,4.5,Intermediate,73k,Get started with AWS Machine Learning.
+734,Getting Started with Go,"University of California, Irvine",COURSE,4.6,Intermediate,59k,Begin programming with Go
+422,Getting Started with Google Kubernetes Engine,Google Cloud,COURSE,4.5,Intermediate,75k,Get started with Google Kubernetes Engine.
+411,Getting Started with Google Sheets,Google Cloud,COURSE,4.6,Beginner,18k,Start using Google Sheets for various applications.
+538,Getting Started with SAS Programming,SAS,COURSE,4.9,Beginner,22k,Get started with SAS programming
+227,Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,COURSE,4.6,Intermediate,120k,Learn big data and machine learning fundamentals on Google Cloud Platform.
+849,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,COURSE,4.7,Intermediate,36k, Learn Google Cloud Platform fundamentals for AWS professionals.
+25,Google IT Automation with Python,Google,PROFESSIONAL CERTIFICATE,4.7,Beginner,93k,Automate IT tasks using Python programming.
+4,Google IT Support,Google,PROFESSIONAL CERTIFICATE,4.8,Beginner,350k,Develop IT support skills.
+329,"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,COURSE,4.8,Mixed,240k,"Learn web development with HTML, CSS, and JavaScript."
+700,Homeland Security and Cybersecurity,University of Colorado System,SPECIALIZATION,4.7,Beginner,5.5k, Explore homeland security and cybersecurity concepts.
+767,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,COURSE,3.3,Mixed,140k,Create a website in a weekend using project-centered learning.
+34,IBM AI Engineering,IBM,PROFESSIONAL CERTIFICATE,4.6,Intermediate,140k,Learn AI engineering with IBM.
+571,IBM AI Enterprise Workflow,IBM,SPECIALIZATION,4.4,Advanced,3.5k,Understand AI enterprise workflow with IBM.
+12,IBM Applied AI,IBM,PROFESSIONAL CERTIFICATE,4.6,Beginner,220k,Explore applied AI concepts with IBM.
+0,IBM Data Science,IBM,PROFESSIONAL CERTIFICATE,4.6,Beginner,480k,Study data science with IBM.
+98,IT Fundamentals for Cybersecurity,IBM,SPECIALIZATION,4.5,Beginner,35k,Get IT fundamentals for cybersecurity.
+476,IT Security: Defense against the digital dark arts,Google,COURSE,4.8,Beginner,62k, Defend against digital dark arts in IT security.
+123,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,COURSE,4.9,Beginner,270k,"Enhance deep neural networks with hyperparameter tuning, regularization, and optimization."
+572,Industrial IoT on Google Cloud Platform,Google Cloud,COURSE,4.5,Beginner,34k,Learn industrial IoT on Google Cloud Platform.
+805,Influencer Marketing Strategy,Rutgers the State University of New Jersey,COURSE,4.4,Intermediate,12k,Develop influencer marketing strategies.
+549,Information Security: Context and Introduction,"Royal Holloway, University of London",COURSE,4.6,Beginner,32k, Get introduced to information security concepts.
+537,Information Visualization,New York University,SPECIALIZATION,4.6,Beginner,10k,Learn information visualization techniques.
+701,International Cyber Conflicts,The State University of New York,COURSE,4.4,Mixed,25k,Study international cyber conflicts.
+447,International Security Management,Erasmus University Rotterdam,COURSE,4.5,Beginner,2.2k,Explore international security management
+427,Introduction to Artificial Intelligence (AI),IBM,COURSE,4.7,Beginner,44k,Learn the basics of artificial intelligence (AI).
+862,Introduction to Big Data,University of California San Diego,COURSE,4.6,Mixed,160k,Get introduced to big data concepts.
+608,Introduction to Blockchain Technologies,INSEAD,COURSE,4.7,Beginner,16k,Explore blockchain technologies.
+713,Introduction to Business Analytics: Communicating with Data,University of Illinois at Urbana-Champaign,COURSE,4.7,Intermediate,14k,Learn business analytics and data communication.
+664,Introduction to CSS3,University of Michigan,COURSE,4.8,Mixed,84k,Begin with CSS3 for web development.
+594,Introduction to Cloud Computing,IBM,COURSE,4.6,Beginner,2.6k,Get introduced to cloud computing concepts.
+780,Introduction to Computer Programming,"Goldsmiths, University of London",COURSE,4.3,Beginner,20k,Learn the basics of computer programming
+254,Introduction to Computer Science and Programming,"Goldsmiths, University of London",SPECIALIZATION,4.3,Beginner,32k,Study computer science and programming fundamentals.
+723,Introduction to Cyber Attacks,New York University,COURSE,4.7,Beginner,27k,Get introduced to cyber attacks
+183,Introduction to Cyber Security,New York University,SPECIALIZATION,4.7,Beginner,32k,Explore the basics of cyber security
+469,Introduction to Cybersecurity Tools & Cyber Attacks,IBM,COURSE,4.5,Beginner,30k, Learn cybersecurity tools and cyber attacks
+548,Introduction to Data Analysis Using Excel,Rice University,COURSE,4.7,Mixed,99k,Get introduced to data analysis using Excel
+1,Introduction to Data Science,IBM,SPECIALIZATION,4.6,Beginner,310k,Discover the fundamentals of data science.
+187,Introduction to Data Science in Python,University of Michigan,COURSE,4.5,Intermediate,390k,Learn data science with Python.
+649,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,COURSE,4.5,Intermediate,41k,Get introduced to embedded systems software and development environments.
+850,Introduction to Game Development,Michigan State University,COURSE,4.8,Mixed,79k,Start with game development concepts
+307,Introduction to HTML5,University of Michigan,COURSE,4.7,Mixed,220k,Learn the basics of HTML5 for web development.
+617,Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,COURSE,4.8,Mixed,11k,Explore portfolio construction and analysis with Python.
+190,Introduction to Programming in C,Duke University,SPECIALIZATION,4.7,Beginner,82k,Learn the basics of C programming.
+293,Introduction to Scripting in Python,Rice University,SPECIALIZATION,4.7,Beginner,49k, Get introduced to scripting in Python
+758,Introduction to Systems Engineering,UNSW Sydney (The University of New South Wales),COURSE,4.7,Mixed,33k,Study the basics of systems engineering
+230,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",deeplearning.ai,COURSE,4.7,Intermediate,150k,"Get introduced to TensorFlow for AI, ML, and DL"
+659,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,COURSE,4,Intermediate,13k," Explore trading, machine learning, and Google Cloud Platform."
+428,Introduction to User Experience Design,Georgia Institute of Technology,COURSE,4.5,Beginner,87k,Discover user experience design concepts
+625,Introduction to Web Development,"University of California, Davis",COURSE,4.7,Beginner,76k,Get introduced to web development
+147,Investment Management with Python and Machine Learning,EDHEC Business School,SPECIALIZATION,4.6,Beginner,14k,Learn investment management with Python and machine learning.
+45,Java Programming and Software Engineering Fundamentals,Duke University,SPECIALIZATION,4.6,Beginner,380k,Study Java programming and software engineering fundamentals
+518,Java Programming: Solving Problems with Software,Duke University,COURSE,4.6,Beginner,160k, Learn to solve problems with software using Java.
+546,Kotlin for Java Developers,JetBrains,COURSE,4.7,Intermediate,37k, Learn to solve problems with software using Java.
+74,Learn SQL Basics for Data Science,"University of California, Davis",SPECIALIZATION,4.6,Beginner,160k,Explore SQL basics for data science
+260,Learn to Program: The Fundamentals,University of Toronto,COURSE,4.8,Beginner,180k,Learn programming fundamentals.
+181,Machine Learning,University of Washington,SPECIALIZATION,4.6,Intermediate,290k,Study machine learning concepts
+6,Machine Learning,Stanford University,COURSE,4.9,Mixed,3.2m,Study machine learning concepts
+831,Machine Learning Foundations: A Case Study Approach,University of Washington,COURSE,4.6,Mixed,240k, Learn machine learning with case studies.
+352,Machine Learning and Reinforcement Learning in Finance,New York University,SPECIALIZATION,3.7,Intermediate,29k,Study ML and reinforcement learning in finance.
+585,Machine Learning for All,University of London,COURSE,4.6,Beginner,19k,Explore machine learning for everyone
+264,Machine Learning for Business Professionals,Google Cloud,COURSE,4.6,Intermediate,58k,Learn machine learning for business professionals
+178,Machine Learning for Trading,Google Cloud,SPECIALIZATION,3.9,Intermediate,15k,Discover machine learning for trading.
+321,Machine Learning with Python,IBM,COURSE,4.7,Intermediate,120k,Study machine learning with Python
+125,Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,SPECIALIZATION,4.5,Intermediate,72k,Learn machine learning with TensorFlow on Google Cloud Platform
+467,Managerial Accounting Fundamentals,University of Virginia,COURSE,4.9,Beginner,11k,Explore managerial accounting fundamentals
+550,Mastering Data Analysis in Excel,Duke University,COURSE,4.2,Mixed,280k,Learn data analysis in Excel.
+563,Mastering Software Development in R,Johns Hopkins University,SPECIALIZATION,4.3,Beginner,52k,Master software development in R.
+840,Materials Science: 10 Things Every Engineer Should Know,"University of California, Davis",COURSE,4.7,Mixed,48k,Learn 10 essential things in materials science for engineers.
+480,Mathematics for Data Science,National Research University Higher School of Economics,SPECIALIZATION,4.5,Beginner,12k,Study mathematics for data science.
+55,Mathematics for Machine Learning,Imperial College London,SPECIALIZATION,4.6,Beginner,150k,Explore mathematics for machine learning.
+223,Mathematics for Machine Learning: Linear Algebra,Imperial College London,COURSE,4.7,Beginner,140k,Learn linear algebra for machine learning.
+528,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,COURSE,4.7,Beginner,51k,Study multivariate calculus for machine learning
+873,Mathematics for Machine Learning: PCA,Imperial College London,COURSE,4,Intermediate,33k,Discover PCA (Principal Component Analysis) for machine learning.
+296,Modern Big Data Analysis with SQL,Cloudera,SPECIALIZATION,4.8,Beginner,14k,Learn modern big data analysis with SQL.
+333,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,SPECIALIZATION,4.7,Intermediate,21k,"Explore modern robotics mechanics, planning, and control"
+523,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,COURSE,4.7,Intermediate,9.1k,Learn modernizing data lakes and warehouses with Google Cloud Platform.
+481,More Introduction to Financial Accounting,University of Pennsylvania,COURSE,4.9,Mixed,40k,Get introduced to more financial accounting concepts.
+685,Nanotechnology: A Maker’s Course,Duke University,COURSE,4.8,Mixed,21k,Discover nanotechnology through a maker's course.
+431,Natural Language Processing in TensorFlow,deeplearning.ai,COURSE,4.6,Intermediate,40k,Learn natural language processing in TensorFlow using Python
+842,Networking and Security Architecture with VMware NSX,VMware,COURSE,4.8,Intermediate,17k,Study networking and security architecture with VMware NSX
+20,Networking in Google Cloud,Google Cloud,SPECIALIZATION,4.7,Intermediate,290k,Explore networking in Google Cloud
+62,Neural Networks and Deep Learning,deeplearning.ai,COURSE,4.9,Intermediate,630k,Learn neural networks and deep learning.
+255,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,SPECIALIZATION,4.7,Intermediate,250k,"Explore object-oriented Java programming, data structures, and more."
+86,Object Oriented Programming in Java,Duke University,SPECIALIZATION,4.6,Beginner,330k, Get introduced to object-oriented programming in Java
+510,Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,COURSE,4.7,Intermediate,21k,Study object-oriented data structures in C++
+887,Object-Oriented Design,University of Alberta,COURSE,4.7,Intermediate,33k, Learn object-oriented design concepts.
+416,"Open Source Software Development, Linux and Git",The Linux Foundation,SPECIALIZATION,4.4,Beginner,13k,"Explore open-source software development, Linux, and Git"
+316,Operating Systems and You: Becoming a Power User,Google,COURSE,4.6,Beginner,76k,Learn operating systems and become a power user.
+526,Palo Alto Networks Cybersecurity,Palo Alto Networks,SPECIALIZATION,4.6,Beginner,9.1k,Study Palo Alto Networks cybersecurity.
+320,Practical Data Science with MATLAB,MathWorks,SPECIALIZATION,4.7,Beginner,10k, Learn practical data science with MATLAB
+808,Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,COURSE,4.7,Beginner,22k,Prepare for the Google Cloud Associate Cloud Engineer exam.
+626,Process Mining: Data science in Action,Eindhoven University of Technology,COURSE,4.8,Intermediate,39k,Discover process mining as data science in action.
+364,"Programming Foundations with JavaScript, HTML and CSS",Duke University,COURSE,4.6,Beginner,250k," Get foundations in programming using JavaScript, HTML, and CSS"
+732,Programming Fundamentals,Duke University,COURSE,4.7,Beginner,19k,Explore programming fundamentals.
+47,Programming for Everybody (Getting Started with Python),University of Michigan,COURSE,4.8,Mixed,1.3m, Get started with programming for everybody using Python
+208,Programming with Google Go,"University of California, Irvine",SPECIALIZATION,4.6,Intermediate,18k,Learn programming with Google Go.
+31,Project Management & Other Tools for Career Development,"University of California, Irvine",SPECIALIZATION,4.6,Beginner,440k,Learn project management and career development tools.
+30,Project Management Principles and Practices,"University of California, Irvine",SPECIALIZATION,4.7,Beginner,230k,Explore project management principles and practices.
+279,Python Basics,University of Michigan,COURSE,4.8,Beginner,110k,Learn the basics of Python programming
+869,Python Classes and Inheritance,University of Michigan,COURSE,4.7,Intermediate,21k,Study Python classes and inheritance
+111,Python Data Structures,University of Michigan,COURSE,4.9,Mixed,420k,Get introduced to Python data structures.
+555,"Python Functions, Files, and Dictionaries",University of Michigan,COURSE,4.8,Beginner,26k," Learn Python functions, files, and dictionaries."
+374,Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,COURSE,4.4,Intermediate,41k, Explore Python and statistics for financial analysis
+152,Python for Data Science and AI,IBM,COURSE,4.6,Beginner,170k,Get started with Python for data science and AI
+3,Python for Everybody,University of Michigan,SPECIALIZATION,4.8,Beginner,1.5m,Learn Python for everybody
+317,R Programming,Johns Hopkins University,COURSE,4.6,Intermediate,480k,Study R programming
+553,Recommender Systems,University of Minnesota,SPECIALIZATION,4.3,Intermediate,29k,Explore recommender systems
+868,Requirements Engineering: Secure Software  Specifications,University of Colorado System,SPECIALIZATION,4.6,Beginner,7.2k,Learn requirements engineering and secure software specifications.
+289,Responsive Website Development and Design,"Goldsmiths, University of London",SPECIALIZATION,4.5,Beginner,170k,Get into responsive website development and design
+315,Robotics,University of Pennsylvania,SPECIALIZATION,4.4,Beginner,120k,Study robotics.
+160,SAS Programmer,SAS,PROFESSIONAL CERTIFICATE,4.8,Beginner,370k,Learn SAS programming
+393,SAS Visual Business Analytics,SAS,PROFESSIONAL CERTIFICATE,4.6,Beginner,2.6k,Explore SAS Visual Business Analytics
+332,SQL for Data Science,"University of California, Davis",COURSE,4.6,Beginner,160k,Get into SQL for data science
+629,Search Engine Optimization Fundamentals,"University of California, Davis",COURSE,4.7,Mixed,47k,Learn search engine optimization fundamentals.
+836,Secure Coding Practices,"University of California, Davis",SPECIALIZATION,4.4,Intermediate,6.4k,Study secure coding practices
+712,Security & Safety Challenges in a Globalized World,Universiteit Leiden,COURSE,4.7,Beginner,14k,Explore security and safety challenges in a globalized world
+19,Security in Google Cloud Platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k,Learn security in Google Cloud Platform
+817,Social Entrepreneurship,Copenhagen Business School,SPECIALIZATION,4.6,Beginner,13k,Discover social entrepreneurship.
+186,Software Design and Architecture,University of Alberta,SPECIALIZATION,4.6,Beginner,60k,Study software design and architecture
+402,Software Development Lifecycle,University of Minnesota,SPECIALIZATION,4.6,Intermediate,34k,Learn the software development lifecycle
+859,Software Processes and Agile Practices,University of Alberta,COURSE,4.7,Mixed,60k,Explore software processes and agile practices
+64,Software Product Management,University of Alberta,SPECIALIZATION,4.6,Beginner,110k,Get introduced to software product management.
+170,Statistical Analysis with R for Public Health,Imperial College London,SPECIALIZATION,4.7,Beginner,16k,Study statistical analysis with R for public health
+127,Statistics with Python,University of Michigan,SPECIALIZATION,4.6,Beginner,34k,Learn statistics with Python
+84,Statistics with R,Duke University,SPECIALIZATION,4.7,Beginner,220k,Explore statistics with R
+189,Structuring Machine Learning Projects,deeplearning.ai,COURSE,4.8,Beginner,220k,Learn structuring machine learning projects
+387,Swift 5 iOS Application Developer,LearnQuest,SPECIALIZATION,4.5,Beginner,3.9k,Become an iOS application developer using Swift 5.
+403,System Administration and IT Infrastructure Services,Google,COURSE,4.7,Beginner,62k, Learn system administration and IT infrastructure services
+27,TensorFlow in Practice,deeplearning.ai,SPECIALIZATION,4.7,Intermediate,170k,Apply TensorFlow in practical machine learning projects
+217,TensorFlow: Data and Deployment,deeplearning.ai,SPECIALIZATION,4.5,Intermediate,12k,Explore TensorFlow for data and model deployment
+135,The Bits and Bytes of Computer Networking,Google,COURSE,4.7,Beginner,130k, Learn the fundamentals of computer networking
+243,The Data Scientist’s Toolbox,Johns Hopkins University,COURSE,4.6,Mixed,420k,Get introduced to essential data science tools.
+138,The Strategy of Content Marketing,"University of California, Davis",COURSE,4.5,Intermediate,100k,Master the strategy of content marketing.
+146,Tools for Data Science,IBM,COURSE,4.6,Beginner,120k,Learn various tools for data science
+153,UCI Project Management,"University of California, Irvine",PROFESSIONAL CERTIFICATE,4.6,Beginner,44k,Study project management at UCI.
+46,UI / UX Design,California Institute of the Arts,SPECIALIZATION,4.7,Beginner,68k, Explore UI/UX design
+595,UX Design Fundamentals,California Institute of the Arts,COURSE,4.8,Beginner,25k,Get into UX design fundamentals.
+465,Understanding and Visualizing Data with Python,University of Michigan,COURSE,4.7,Beginner,30k,Understand and visualize data with Python
+249,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,COURSE,4.9,Beginner,130k, Study the neurobiology of everyday life
+865,Unity Certified Programmer Exam Preparation,Unity,SPECIALIZATION,4.5,Intermediate,6.1k,Prepare for the Unity Certified Programmer exam using C#.
+618,Unity XR: How to Build AR and VR Apps,Unity,SPECIALIZATION,4.2,Beginner,12k,Learn to build AR and VR apps using Unity XR
+117,User Experience Research and Design,University of Michigan,SPECIALIZATION,4.8,Beginner,23k,Master user experience research and design.
+614,User Interface Design,University of Minnesota,SPECIALIZATION,4.6,Intermediate,43k,Study user interface design
+350,Using Databases with Python,University of Michigan,COURSE,4.8,Mixed,220k,Use databases with Python
+199,Using Python to Access Web Data,University of Michigan,COURSE,4.8,Mixed,310k, Learn to access web data using Python
+603,Using Python to Interact with the Operating System,Google,COURSE,4.7,Beginner,19k,Interact with the operating system using Python
+589,Version Control with Git,Atlassian,COURSE,4.8,Mixed,40k,Get started with version control using Git.
+71,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,COURSE,4.7,Mixed,150k,Learn viral marketing and crafting contagious content
+407,Virtual Reality,"Goldsmiths, University of London",SPECIALIZATION,4.7,Beginner,37k, Explore virtual reality.
+182,Web Applications for Everybody,University of Michigan,SPECIALIZATION,4.8,Intermediate,120k,Create web applications using Python
+42,Web Design for Everybody: Basics of Web Development & Coding,University of Michigan,SPECIALIZATION,4.7,Beginner,280k,Master web design and development basics.
+88,What is Data Science?,IBM,COURSE,4.7,Beginner,260k,Understand the field of data science.
+359,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,University of Illinois at Urbana-Champaign,COURSE,4.5,Mixed,17k,Explore innovative approaches to teaching and learning in the digital age
+779,iOS App Development with Swift,University of Toronto,SPECIALIZATION,3.9,Intermediate,76k,Develop iOS apps using Swift
