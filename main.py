@@ -6,7 +6,6 @@ import base64
 from CourseRecommendation import *
 
 openai_api_key = os.environ.get("OPENAI_API_KEY")
-# openai.api_key = ""
 elevenlabs_api_key = os.environ.get("ELEVENLABS_API_KEY")
 
 def generate_speech(message,id,flag=0):
@@ -37,14 +36,13 @@ def generate_questions(message):
         {"role": "user", "content": f"User Input: {message}"}
     ]
 
-    # Make an API call to GPT-3.5 to generate evaluation questions
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
         temperature=0,
         max_tokens=250
     )
-    # Extract the generated questions from the API response
+    
     assistant_response = response.choices[0].message['content']
     generated_questions = assistant_response.split("\n")
     generated_questions = [q.strip() for q in generated_questions if q.strip()]
@@ -64,7 +62,7 @@ def eval_answer(evaluation_questions,ans_list):
         temperature=0,
         max_tokens=50
     )
-    # Extract the generated questions from the API response
+    
     assistant_response = response.choices[0].message['content']
     eval_phrase = assistant_response.split("\n")
     eval_phrase = [q.strip() for q in eval_phrase if q.strip()]
@@ -81,7 +79,7 @@ app = Flask(__name__,template_folder="templates")
 
 @app.route("/", methods=['GET'])
 def default():
-    return render_template("index.html")
+    return render_template("view.html")
 
 @app.route("/getQues", methods=['POST','GET'])
 def question_generator():
