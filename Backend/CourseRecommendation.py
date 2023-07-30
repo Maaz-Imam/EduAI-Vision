@@ -1,5 +1,3 @@
-/*Course Recommendation Algorithm*/
-
 import pandas as pd
 import os
 from sklearn.feature_extraction.text import TfidfVectorizer
