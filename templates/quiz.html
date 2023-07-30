@@ -4,21 +4,22 @@
     <title>Quiz</title>
 </head>
 <body>
-    <form action="/quiz/submit" method="post">
+    <form action="/quiz" method="post">
         {% for q in json_content.questions %}
             {% set question_number = loop.index %}
             <p>Question {{question_number}}:</p>
             <p>{{q.question | safe}}</p> <!--safe is used so that html tags in q.question are not escaped-->
             {% for option in q.options %}
-                <input type="radio" name="question_{{question_number}}" value="{{loop.index}}" /> {{option}} <br />
+                <input type="radio" name="question_{{question_number}}" value="{{loop.index0}}" /> {{option}} <br />
             {% endfor %}
             <hr />
         {% endfor %}
         <input type="submit" value="Submit" />
     </form>
 
-    {% if selected_value %}
-    <h1>{{selected_value}}</h1>
+    {% if level %}
+    <h1>Your level:</h1>
+    <h3>{{level}}</h3>
     {% endif %}
 </body>
 </html>

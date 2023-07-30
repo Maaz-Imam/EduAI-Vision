@@ -15,12 +15,42 @@ def index():
     else:
         return render_template('index.html', result=None, isPost=False)
 
-'''
-def process_score(req, quiz_questions):
 
+def process_score(req, quiz_questions):
+    '''
+    after the user submits the quiz (the user's answers are stored in `req`, the request),
+    this function returns the level (basic, intermediate, or advanced) of the user
+    '''
     score = 0
-    for i, 
-'''
+    for i, q in enumerate(quiz_questions['questions']):
+        selected_value = int(request.form.get(f'question_{i+1}', default=-1))
+        if selected_value == q['answer']:
+            score += 1
+
+    if score < 3:
+        level = 'basic'
+    elif score == 3 or score == 4:
+        level = 'intermediate'
+    else:
+        level = 'advanced'
+
+    return level
+
+def process_score1(req, quiz_questions):
+    '''
+    after the user submits the quiz (the user's answers are stored in req),
+    this function returns the score and the answers that the user provided
+    '''
+    score = 0
+    answers = []
+    for i, q in enumerate(quiz_questions['questions']):
+        selected_value = int(request.form.get(f'question_{i+1}', default=-1))
+        answers.append(selected_value)
+        if selected_value == q['answer']:
+            score += 1
+    
+    return score, answers
+
 
 Quizzes_folder_path = os.path.join(os.path.dirname(__file__), 'Dataset', 'Quizzes')
     
@@ -31,12 +61,11 @@ def show_quiz():
         quiz_questions = json.load(f)
 
     if request.method == 'POST': # for form submission
-        selected_value = request.form.get(f'question_{1}', default=-1)
-        return render_template('quiz.html', selected_value=selected_value)
+        user_level = process_score(request, quiz_questions)
+        return render_template('quiz.html', json_content=quiz_questions, level=user_level)
 
-
-    
-    return render_template('quiz.html', json_content=quiz_questions, selected_value=None)
+    # landing page for /quiz
+    return render_template('quiz.html', json_content=quiz_questions, level=None)
 
 
 '''
