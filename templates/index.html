@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Python Assessment</title>
+</head>
+<body>
+    <h1>Question:</h1>
+    <p>{{ question.question }}</p>
+    <form action="/answer/{{ question.options.index(option) }}" method="get">
+        {% for option in question.options %}
+            <input type="radio" name="answer" value="{{ loop.index - 1 }}">{{ option }}<br>
+        {% endfor %}
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
