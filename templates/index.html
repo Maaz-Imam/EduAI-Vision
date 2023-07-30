@@ -11,8 +11,11 @@
     </form>
     <h1>Recommended Courses:</h1>
     {% if isPost %}
-        <h2>{{ result }}</h2>
+        <p>{{ result }}</p>
     {% endif %}
-
+    <hr />
+    <form action="/quiz" method="get">
+        <input type="submit" value="Take Quiz" />
+    </form>
 </body>
 </html>
