@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark">
+<head>
+    <title>Ask LEO</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .audio-player {
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+
+        textarea {
+            --scrollbarBG: #c3c1c1;
+            --scrollbarColor: #162c33;
+            --scrollbarWidth: 10px;
+        }
+
+        textarea::-webkit-scrollbar {
+            width: var(--scrollbarWidth);
+        }
+
+        textarea::-webkit-scrollbar-track {
+            background-color: var(--scrollbarBG);
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+        }
+
+        textarea::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            background-color: var(--scrollbarColor);
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+        }
+    </style>
+    <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
+</head>
+<body>
+    <div class="container text-center mt-5">
+        <div class="row">
+            <div class="col-12 col-md-6 col-xl-4 mx-auto">
+                <h1 class="mb-4">Ask EDU</h1>
+                <form>
+                    <div class="form-group mb-3">
+                        <textarea id="transcription-box" class="form-control" rows="3" placeholder="Type/Record your interests and skills (please keep it concise)."></textarea>
+                    </div>
+                    <div class="form-group d-flex justify-content-between">
+                        <button type="button" class="btn btn-danger" style="width:48%" id="record-button">Record</button>
+                        <button type="button" class="btn btn-primary" style="width:48%" id="ask-button" onclick="send()">Ask</button>
+                    </div>
+                </form>
+                <div class="audio-player">
+                    <audio controls id="audio-element"></audio>
+                </div>
+                <div class="response">
+                    <p id="response-text"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        const askButton = document.getElementById("ask-button");
+        const recButton = document.getElementById("record-button");
+        const transcriptBox = document.getElementById("transcription-box");
+        var flag = 1;
+        var i = 0;
+
+        recButton.disabled = true;
+
+        function send()
+        {
+            
+            const text = transcriptBox.value;
+            fetch("/getQues", {
+                    method: "POST",
+                    body: JSON.stringify({"message": text,"flag": flag, "i" : i}),
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                })
+            .then(response => response.json()) // Parse the response as JSON
+            .then(data => {
+                const audioData = atob(data.audio);
+                const audioBuffer = new Uint8Array(audioData.length);
+
+                for (let i = 0; i < audioData.length; i++) {
+                    audioBuffer[i] = audioData.charCodeAt(i);
+                }
+                // Create a Blob from the audio buffer
+                const audioBlob = new Blob([audioBuffer], { type: 'audio/mpeg' });
+                // Create a URL for the Blob and set it as the audio player's source
+                const audioUrl = URL.createObjectURL(audioBlob);
+                const audioPlayer = document.getElementById('audio-element');
+                audioPlayer.src = audioUrl;
+                // Play the audio
+                audioPlayer.play();
+
+                document.getElementById("response-text").innerText = data.message;
+                flag = data.flag;
+                if(data.id==0){
+                    i = 0;
+                }
+                else{
+                i += 1;
+                }
+
+                console.log(data.flag,i,data.message);
+                transcriptBox.value="";
+                })
+                .catch(error => console.error(error));
+        }
+    </script>
+</body>
+</html>
