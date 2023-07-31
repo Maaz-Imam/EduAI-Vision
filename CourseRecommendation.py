@@ -23,7 +23,7 @@ def get_course_recommendation(user_interest, cosin_matrix, df):
     score = sorted(score,key=lambda x:x[1],reverse=True)
     course_index = [i[0] for i in score]
     course_names = ", ".join(df['course_title'].iloc[course_index[:3]])
-    enumerated_names = "\n".join(f"{i+1}. {name}" for i, name in enumerate(course_names.split(", ")))
+    enumerated_names = "\n".join(f" {i+1}. {name}" for i, name in enumerate(course_names.split(", ")))
     return f"Your recommended courses are:\n{enumerated_names}"
 
 def get_recommendation(user_interest):

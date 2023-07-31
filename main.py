@@ -1,12 +1,13 @@
 import openai
 import os
-from elevenlabs import generate
+from elevenlabs import generate, set_api_key
 from flask import jsonify,request,app, Flask, render_template
 import base64
 from CourseRecommendation import *
 
 openai_api_key = os.environ.get("OPENAI_API_KEY")
 elevenlabs_api_key = os.environ.get("ELEVENLABS_API_KEY")
+
 
 def generate_speech(message,id,flag=0):
     audio = generate(
@@ -32,17 +33,18 @@ def generate_speech(message,id,flag=0):
 
 def generate_questions(message):
     messages = [
-        {"role": "system", "content": "Generate 3 short theoretical questions to evaluate the user's skills and knowledge in this field."},
+        {"role": "system", "content": "Generate 5 short theoretical questions to evaluate the user's skills and knowledge in this field. Please keep the questions unique and distinct and target different areas of the said field"},
         {"role": "user", "content": f"User Input: {message}"}
     ]
 
+    # Make an API call to GPT-3.5 to generate evaluation questions
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
         temperature=0,
         max_tokens=250
     )
-    
+    # Extract the generated questions from the API response
     assistant_response = response.choices[0].message['content']
     generated_questions = assistant_response.split("\n")
     generated_questions = [q.strip() for q in generated_questions if q.strip()]
@@ -62,7 +64,7 @@ def eval_answer(evaluation_questions,ans_list):
         temperature=0,
         max_tokens=50
     )
-    
+    # Extract the generated questions from the API response
     assistant_response = response.choices[0].message['content']
     eval_phrase = assistant_response.split("\n")
     eval_phrase = [q.strip() for q in eval_phrase if q.strip()]
@@ -100,11 +102,11 @@ def question_generator():
         # print("\nI am NOT here\n")
         ans_list.append(message)
 
-    if i>2:
+    if i>4:
         # print("\n",evaluation_questions,"\n",len(evaluation_questions),"\n")
         # print("\n",ans_list,"\n",len(ans_list),"\n")
         msg = courseRecommender(eval_answer(evaluation_questions,ans_list))
-        return generate_speech(msg,i,1)
+        return generate_speech(msg,-300)
     else:
         msg = evaluation_questions[i]
         return generate_speech(msg,i)
