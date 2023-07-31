@@ -1,5 +1,5 @@
 # EduAI-Vision
-An AI powered voice-interactive course recommender.
+An AI powered voice-interactive course recommender. Powered by chatgpt 3 . 5
 
 ## to run
 `python app.py`
