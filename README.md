@@ -1,8 +1,8 @@
 # EduAI-Vision
-An AI powered voice-interactive course recommender. Powered by chatgpt 3 . 5
+An AI powered voice-interactive course recommender. Powered by GPT 3.5 and ElevenLabs Voice Technology
 
 ## to run
-`python app.py`
+`python main.py`
 
 ## webpages
 `http://localhost:5000` is where you can enter the keywords describing the skills you want to learn, and the server will return
