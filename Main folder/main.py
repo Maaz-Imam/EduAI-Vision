@@ -37,14 +37,12 @@ def generate_questions(message):
         {"role": "user", "content": f"User Input: {message}"}
     ]
 
-    # Make an API call to GPT-3.5 to generate evaluation questions
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
         temperature=0,
         max_tokens=250
     )
-    # Extract the generated questions from the API response
     assistant_response = response.choices[0].message['content']
     generated_questions = assistant_response.split("\n")
     generated_questions = [q.strip() for q in generated_questions if q.strip()]
@@ -64,7 +62,6 @@ def eval_answer(evaluation_questions,ans_list):
         temperature=0,
         max_tokens=50
     )
-    # Extract the generated questions from the API response
     assistant_response = response.choices[0].message['content']
     eval_phrase = assistant_response.split("\n")
     eval_phrase = [q.strip() for q in eval_phrase if q.strip()]
@@ -96,15 +93,11 @@ def question_generator():
 
     if flag==1:
         i=0
-        # print("\nI am here\n")
         evaluation_questions = generate_questions(message)
     else: 
-        # print("\nI am NOT here\n")
         ans_list.append(message)
 
     if i>4:
-        # print("\n",evaluation_questions,"\n",len(evaluation_questions),"\n")
-        # print("\n",ans_list,"\n",len(ans_list),"\n")
         msg = courseRecommender(eval_answer(evaluation_questions,ans_list))
         return generate_speech(msg,-300)
     else:
