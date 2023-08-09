@@ -26,7 +26,6 @@ def get_course_recommendation(user_interest, cosin_matrix, df):
     return df['course_title'].iloc[course_index[:3]]
 
 
-
 def get_recommendation(user_interest):
     return get_course_recommendation(user_interest, cosine_similarity, data2)
 
