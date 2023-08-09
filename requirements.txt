@@ -1,0 +1,4 @@
+scikit-learn
+openai
+Flask
+elevenlabs

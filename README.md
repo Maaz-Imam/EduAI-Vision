@@ -1,15 +1,7 @@
 # EduAI-Vision
-An AI powered voice-interactive course recommender.
+An AI powered voice-interactive course recommender. Powered by GPT 3.5 and ElevenLabs Voice Technology.
+Enter your interests and answer a few questions in order to get a course recommendation that suits you best!
 
-## to run
-`python app.py`
-
-## webpages
-`http://localhost:5000` is where you can enter the keywords describing the skills you want to learn, and the server will return
-the recommended courses based on the recommendation system in `CourseRecommendation.py`.
-
-`http://localhost:5000/quiz` is where you can take a Python assessment of five questions. After clicking submit, your level
-(basic, intermediate, advanced) will be shown.
-
-
-
+## To run
+Go to the 'Main Files' folder and open 'main.py'
+`python main.py`
