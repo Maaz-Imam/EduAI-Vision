@@ -53,7 +53,7 @@ def generate_questions(message):
 def eval_answer(evaluation_questions,ans_list):
     messages = [
         {"role": "system", "content": "Based on the set of questions and their corresponding answers, generate a phrase of 2-3 words consisting of the user's level (beginner or intermediate or expert) and specifically what field their interest is in. such as 'Beginner Python'"},
-        {"role": "user", "content": f"Questions: {evaluation_questions}, Anwers: {ans_list}"}
+        {"role": "user", "content": f"Questions: {evaluation_questions}, Answers: {ans_list}"}
     ]
 
     response = openai.ChatCompletion.create(
